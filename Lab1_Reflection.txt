@@ -1,0 +1,5 @@
+GitHub supports team collaboration by allowing multiple users to work on the same
+repository while tracking all changes. Each team member can contribute files, and
+updates are shared through commits and pulls. Version control is important in SQA
+because it keeps a history of changes, helps manage test artifacts, and prevents loss
+of work. It also improves teamwork and accountability in software projects.
